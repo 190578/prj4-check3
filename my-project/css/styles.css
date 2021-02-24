@@ -1,0 +1,15 @@
+@charset "UTF-8";
+
+.title .my-container {
+	border: 10px double #D70306;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-style: italic;
+	text-align: center;
+}
+#my-container2 {
+	color: #E10B85;
+}
+.main-text .main {
+	color: #8A0AE1;
+	text-align: center;
+}
